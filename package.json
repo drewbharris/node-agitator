@@ -1,0 +1,12 @@
+{
+  "name": "node-agitator",
+  "description": "",
+  "author": "Drew Harris <drewbharris@gmail.com>",
+  "dependencies": {
+    "express": "3.2.6",
+    "socket.io": "0.9.16",
+    "serialport": "1.1.0",
+    "when": "2.1.0"
+  },
+  "engine": "node >= 0.8"
+}
